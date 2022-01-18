@@ -1,7 +1,7 @@
 {
   "name": "test-for-docker",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "repository": "https://github.com/laoxue/test-for-docker.git",
   "author": "eric xue <762452134@qq.com>",
   "license": "MIT",
